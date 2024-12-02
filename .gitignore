@@ -1,0 +1,11 @@
+augmented.zip
+data/
+data.zip
+main.ipynb
+trained-models/
+traned-models.zip
+
+# Ignore unwanted files
+.DS_Store
+.ipynb_checkpoints/
+trained-models.zip
